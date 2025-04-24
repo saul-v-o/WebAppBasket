@@ -33,3 +33,15 @@ Aplicación web para gestionar torneos de basketball. Permite registrar equipos,
 ## Autor
  
 Saúl Valenzuela Osuna.
+
+
+
+
+
+![image](https://github.com/user-attachments/assets/91c106e9-0d23-4c2c-8204-910aeeeaacb0)
+
+
+![image](https://github.com/user-attachments/assets/69f5c7ff-b8d4-4b0f-8402-d89a07b1a804)
+
+
+![image](https://github.com/user-attachments/assets/43a8b177-a893-4000-afbf-c0bc61eedc9e)
